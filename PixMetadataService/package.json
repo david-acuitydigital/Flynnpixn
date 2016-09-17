@@ -1,0 +1,22 @@
+{
+  "name": "metadataservice",
+  "version": "1.0.0",
+  "description": "Metadata about pictures stored in the pixn system.",
+  "main": "app.js",
+  "scripts": {
+    "test": "test();"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "Pix"
+  ],
+  "author": "David Flynn",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "mongodb": "^2.2.9",
+    "restify": "^2.8.5"
+  }
+}
